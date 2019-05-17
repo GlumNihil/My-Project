@@ -18,7 +18,8 @@
 			<Metadata name="Catalog.Справочник2.Attribute.Реквизит2" id="c14d8ec0-f819-406d-af82-dcffc1219da3"/>
 			<Metadata name="Catalog.Справочник2.TabularSection.ТабличнаяЧасть1.Attribute.Реквизит1" id="fd399cd8-3ef1-43b9-8259-49cf35566c2a"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="88c3bd5a-f44b-488a-aef8-513791680f3a" configVersion="012e8602a656c642aa65e3c83e5654da00000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1" id="9d186cc8-4876-454d-b9a2-6c3cac70ae18" configVersion="42535206c4860c43be0870a76ccccd3b00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="88c3bd5a-f44b-488a-aef8-513791680f3a" configVersion="4303ee58ca5d0f4480cd503ddafd77fd00000000"/>
 		<Metadata name="Document.Документ1" id="a2c6a3bc-23b3-429b-8302-507e47ec02d7" configVersion="2986e9f06f19ca49be394776433309d000000000">
 			<Metadata name="Document.Документ1.Attribute.Реквизит1" id="338b01f1-be87-4daf-83ca-b4b3597fde1c"/>
 			<Metadata name="Document.Документ1.TabularSection.ТабличнаяЧасть1" id="980bac28-2cf2-4223-a2bb-b99b4dccec7e"/>
