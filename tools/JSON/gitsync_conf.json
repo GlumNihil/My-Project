@@ -27,7 +27,7 @@
 	"repositories": [
 	  {
 			"name": "ТестовыйРепозиторийХакатон2019",
-			"path": "C://Users//demian//My-Project",
+			"path": "C://Users//demian//Documents//хранилищелабыдженкинс",
 			"dir": "./src/cf",
 			"temp-dir": "",
 			"v8version": "8.3.13",
